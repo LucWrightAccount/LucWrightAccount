@@ -2,7 +2,7 @@ Hello, my name is Luc👋
 
 My intended major is Computer Science🧑‍💻
 
-I have an Associates aof CS for Science
+I have an Associates in CS
 
 ## Projects
 - Work on a physics engine either with C++ or Java
