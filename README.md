@@ -1,16 +1,21 @@
-Hello, my name is Luc👋
+# 👋 Hello, I'm Luc
 
-My intended major is Computer Science🧑‍💻
+🎓 **Intended Major:** Computer Science  
+📜 **Education:** Associates in Computer Science  
 
-I have an Associates in CS
+---
 
-## Projects
-- Work on a physics engine either with C++ or Java
-   - A Physics engine correlates vectors by using Linear Algebra and
-  Physics to be applied by any code language
-- Projects that works for hardware to make my own electronics
-    - Understanding how hardware mixes with software to incorperate functions  in electronic
-  Creating a game using a Physics Engine
-  
-  
+## 🚀 Projects
+
+- **Physics Engine (C++ / Java)**  
+   A physics engine that simulates motion and interactions by applying **linear algebra** and **physics principles**.  
+
+- **Electronics & Hardware Integration**  
+   Exploring how **hardware** interacts with **software** to create functional electronic systems.  
+
+- **Game Development**  
+   Building a game powered by a custom **physics engine**.  
+
+---
+
 ![YesComputerGIF](https://github.com/user-attachments/assets/b68167f8-beed-4c08-9441-6d51806ac863)
